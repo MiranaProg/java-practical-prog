@@ -12,8 +12,8 @@ abstract class AbstractClass// abstract class containing abstract methods
 	abstract void AbstractMethod();	
 	public AbstractClass() {
 		// TODO Auto-generated constructor stub
-		System.out.println("20.\tsuper keyword...constructor of abstract class called");
-		System.out.println("21.\tabstract keyword...entered in abstract class( can't be instatntiated)");
-		System.out.println("22.\tprivate keyword...Accessing private field non inheritable privatevar value " +privatevar);
+		System.out.println("21.\tsuper keyword...constructor of abstract class called");
+		System.out.println("22.\tabstract keyword...entered in abstract class( can't be instatntiated)");
+		System.out.println("23.\tprivate keyword...Accessing private field non inheritable privatevar value " +privatevar);
 	}
 }

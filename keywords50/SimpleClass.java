@@ -61,6 +61,7 @@ class SimpleClass{
     		break;//break keyword
     	case 'y':
     		System.out.println("16.\tcase keyword...executing case2.");
+    		System.out.println("17.\tbreak keyword...skip rest of the cases after getting right one");
     		break;
     		default://Default keyword
     			System.out.println("17.\tdefault keyword...");
